@@ -1,0 +1,7 @@
+D:\Delphi\Practice\Sorters\StandardSorter_solution\StandardSorter\bin\Debug\StandardSorter.dll
+D:\Delphi\Practice\Sorters\StandardSorter_solution\StandardSorter\bin\Debug\StandardSorter.pdb
+D:\Delphi\Practice\Sorters\StandardSorter_solution\StandardSorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Sorters\StandardSorter_solution\StandardSorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Sorters\StandardSorter_solution\StandardSorter\obj\Debug\StandardSorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Sorters\StandardSorter_solution\StandardSorter\obj\Debug\StandardSorter.dll
+D:\Delphi\Practice\Sorters\StandardSorter_solution\StandardSorter\obj\Debug\StandardSorter.pdb

@@ -1,0 +1,10 @@
+D:\Delphi\Practice\Task5\ISorter_solution\ISorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Task5\ISorter_solution\ISorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Task5\ISorter_solution\ISorter\obj\Debug\ISorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Task5\ISorter_solution\ISorter\obj\Debug\ISorter.dll
+D:\Delphi\Practice\Task5\ISorter_solution\ISorter\obj\Debug\ISorter.pdb
+D:\Delphi\Practice\Sorters\ISorter_solution\ISorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Sorters\ISorter_solution\ISorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Sorters\ISorter_solution\ISorter\obj\Debug\ISorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Sorters\ISorter_solution\ISorter\obj\Debug\ISorter.dll
+D:\Delphi\Practice\Sorters\ISorter_solution\ISorter\obj\Debug\ISorter.pdb

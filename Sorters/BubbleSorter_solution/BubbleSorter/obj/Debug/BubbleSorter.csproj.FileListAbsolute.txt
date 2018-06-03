@@ -1,0 +1,14 @@
+D:\Delphi\Practice\Task5\BubbleSorter_solution\BubbleSorter\obj\Debug\BubbleSorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Task5\BubbleSorter_solution\BubbleSorter\bin\Debug\BubbleSorter.dll
+D:\Delphi\Practice\Task5\BubbleSorter_solution\BubbleSorter\bin\Debug\BubbleSorter.pdb
+D:\Delphi\Practice\Task5\BubbleSorter_solution\BubbleSorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Task5\BubbleSorter_solution\BubbleSorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Task5\BubbleSorter_solution\BubbleSorter\obj\Debug\BubbleSorter.dll
+D:\Delphi\Practice\Task5\BubbleSorter_solution\BubbleSorter\obj\Debug\BubbleSorter.pdb
+D:\Delphi\Practice\Sorters\BubbleSorter_solution\BubbleSorter\bin\Debug\BubbleSorter.dll
+D:\Delphi\Practice\Sorters\BubbleSorter_solution\BubbleSorter\bin\Debug\BubbleSorter.pdb
+D:\Delphi\Practice\Sorters\BubbleSorter_solution\BubbleSorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Sorters\BubbleSorter_solution\BubbleSorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Sorters\BubbleSorter_solution\BubbleSorter\obj\Debug\BubbleSorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Sorters\BubbleSorter_solution\BubbleSorter\obj\Debug\BubbleSorter.dll
+D:\Delphi\Practice\Sorters\BubbleSorter_solution\BubbleSorter\obj\Debug\BubbleSorter.pdb

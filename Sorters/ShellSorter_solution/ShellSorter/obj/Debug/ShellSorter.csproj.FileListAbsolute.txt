@@ -1,0 +1,7 @@
+D:\Delphi\Practice\Sorters\ShellSorter_solution\ShellSorter\bin\Debug\ShellSorter.dll
+D:\Delphi\Practice\Sorters\ShellSorter_solution\ShellSorter\bin\Debug\ShellSorter.pdb
+D:\Delphi\Practice\Sorters\ShellSorter_solution\ShellSorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Sorters\ShellSorter_solution\ShellSorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Sorters\ShellSorter_solution\ShellSorter\obj\Debug\ShellSorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Sorters\ShellSorter_solution\ShellSorter\obj\Debug\ShellSorter.dll
+D:\Delphi\Practice\Sorters\ShellSorter_solution\ShellSorter\obj\Debug\ShellSorter.pdb
