@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Task5.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CustomDataGridViewName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MainCustomDataGridView</Value>
+    </Setting>
+    <Setting Name="FolderNameWithDLLs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DLLs</Value>
+    </Setting>
+    <Setting Name="FileNameWithArray" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Array.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dgvDatabaseContent.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbDescription.Text" xml:space="preserve">
+    <value>Select the required row:</value>
+  </data>
+  <data name="&gt;&gt;columnArrayId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="lbDescription.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbDescription.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAEBAAAAAAIABoBAAAJgAAACAgAAAAACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAAAEAE
+        AAAAAAAAAAAAAAAAAAAAAAAAjrR+ZZ/ElJ+Wu4iDjrJ9P5/ElJ+Wu4eZh610KZ/ElJ+fxJSfh610KZa7
+        h5mfxJSfjrJ9P5a7iIOfxJSfjrR+ZZ/ElJ+94Lr/rM+kzZq/jWG94Lr/rtGn64uweEW94Lr/veC6/4uw
+        eEWu0afrveC6/5q/jWGsz6TNveC6/5/ElJ+Xu4mFrNCk06DDlKuav41hveC6/67Rp+uLsHhFveC6/73g
+        uv+LsHhFrtGn673guv+av41hrM+kzb3guv+fxJSf////Af///wH///8Bmr+NYb3guv+u0afri7B4Rb3g
+        uv+94Lr/i7B4Ra7Rp+u94Lr/mr+NYazPpM294Lr/n8SUn////wH///8B////AZCzfymav41hk7eDYYuw
+        eEW94Lr/veC6/4uweEWu0afrveC6/5q/jWGsz6TNveC6/5/ElJ////8B////Af///wH///8B////Af//
+        /wGIrnVDrtKn767Sp++IrnVDrtGn673guv+av41hrM+kzb3guv+fxJSf////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Aa7Rp+u94Lr/mr+NYazPpM294Lr/n8SUn////wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wGWu4eZn8SUn46yfT+sz6TNveC6/5/ElJ////8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BrM+kzb3guv+fxJSf////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AYmudTeLsHhFh610Kf//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AbR6TRm0eU0d////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wG1ek0xtXlN27V6
+        TSX///8BtHlOYbV6Tpe1ek6XtXpOl7V6Tpe1ek6XtXpOl7V6Tpe1ek6XtXpOl7V6Tpe1ek6XtXpNrbV6
+        Tv+1ek7jtnpNLbR5TWW0eU2ftHlNn7R5TZ+0eU2ftHlNn7R5TZ+0eU2ftHlNn7R5TZ+0eU2ftHlNn7R6
+        TbG1ek7/tXlN47Z6TS3///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wG1ek0xtXpO3bV5Tif///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8Bs3pNG7R6TR////8B////AQAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA
+        //8AAP//AAD//wAA//8AAP//AAD//wAA//8oAAAAIAAAAEAAAAABACAAAAAAAIAQAAAAAAAAAAAAAAAA
+        AAAAAAAAcJ9gEXSbXEF0m1xBdJtcQXSbXEFzmWAp////AXWaYDF0m1xBdJtcQXSbXEF0m1xB////AXWf
+        YBl0m1xBdJtcQXSbXEF0m1xBdZ9gGf///wF0m1xBdJtcQXSbXEF0m1xBdZpgMf///wFzmWApdJtcQXSb
+        XEF0m1xBdJtcQXCfYBF0m1xBnsKS/6vPo/+rz6P/q8+j/42ye6f///8BlLiFzavPo/+rz6P/q8+j/5K4
+        guH///8Bi7B4iavPo/+rz6P/q8+j/6vPo/+LsHiJ////AZK4guGrz6P/q8+j/6vPo/+UuIXN////AY2y
+        e6erz6P/q8+j/6vPo/+ewpL/dJtcQXSbXEGrz6P/veC6/73guv+94Lr/kbWBnf///wGav43DveC6/73g
+        uv+94Lr/nsGR1////wGLsHiJveC6/73guv+94Lr/veC6/4uweIn///8BnsGR173guv+94Lr/veC6/5q/
+        jcP///8BkbWBnb3guv+94Lr/veC6/6vPo/90m1xBdJtcQavPo/+94Lr/veC6/73guv+RtYGd////AZq/
+        jcO94Lr/veC6/73guv+ewZHX////AYuweIm94Lr/veC6/73guv+94Lr/i7B4if///wGewZHXveC6/73g
+        uv+94Lr/mr+Nw////wGRtYGdveC6/73guv+94Lr/q8+j/3SbXEF0m1xBq8+j/73guv+94Lr/veC6/5G1
+        gZ3///8Bmr+Nw73guv+94Lr/veC6/57Bkdf///8Bi7B4ib3guv+94Lr/veC6/73guv+LsHiJ////AZ7B
+        kde94Lr/veC6/73guv+av43D////AZG1gZ294Lr/veC6/73guv+rz6P/dJtcQXOZYCmPs3+vk7iEp5O4
+        hKeTuISnh6pxbf///wGav43DveC6/73guv+94Lr/nsGR1////wGLsHiJveC6/73guv+94Lr/veC6/4uw
+        eIn///8BnsGR173guv+94Lr/veC6/5q/jcP///8BkbWBnb3guv+94Lr/veC6/6vPo/90m1xB////Af//
+        /wH///8B////Af///wH///8B////AZq/jcO94Lr/veC6/73guv+ewZHX////AYuweIm94Lr/veC6/73g
+        uv+94Lr/i7B4if///wGewZHXveC6/73guv+94Lr/mr+Nw////wGRtYGdveC6/73guv+94Lr/q8+j/3Sb
+        XEH///8B////Af///wH///8B////Af///wH///8Bmr+Nw73guv+94Lr/veC6/57Bkdf///8Bi7B4ib3g
+        uv+94Lr/veC6/73guv+LsHiJ////AZ7Bkde94Lr/veC6/73guv+av43D////AZG1gZ294Lr/veC6/73g
+        uv+rz6P/dJtcQf///wH///8B////Af///wH///8B////Af///wGQs3+lmr+Nw5q/jcOav43DjLB6v///
+        /wGLsHiJveC6/73guv+94Lr/veC6/4uweIn///8BnsGR173guv+94Lr/veC6/5q/jcP///8BkbWBnb3g
+        uv+94Lr/veC6/6vPo/90m1xB////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////AYuweIm94Lr/veC6/73guv+94Lr/i7B4if///wGewZHXveC6/73guv+94Lr/mr+Nw///
+        /wGRtYGdveC6/73guv+94Lr/q8+j/3SbXEH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8Bi7B4ib3guv+94Lr/veC6/73guv+LsHiJ////AZ7Bkde94Lr/veC6/73g
+        uv+av43D////AZG1gZ294Lr/veC6/73guv+rz6P/dJtcQf///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wGGrHN/n8OT4Z/Dk+Gfw5Phn8OT4Yasc3////8BnsGR173g
+        uv+94Lr/veC6/5q/jcP///8BkbWBnb3guv+94Lr/veC6/6vPo/90m1xB////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wGewZHXveC6/73guv+94Lr/mr+Nw////wGRtYGdveC6/73guv+94Lr/q8+j/3SbXEH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////AZ7Bkde94Lr/veC6/73guv+av43D////AZG1gZ294Lr/veC6/73guv+rz6P/dJtcQf//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8BkriC4avPo/+rz6P/q8+j/5S4hc3///8BkbWBnb3guv+94Lr/veC6/6vP
+        o/90m1xB////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wF0m1xBdJtcQXSbXEF0m1xBdZpgMf///wGRtYGdveC6/73g
+        uv+94Lr/q8+j/3SbXEH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AZG1
+        gZ294Lr/veC6/73guv+rz6P/dJtcQf///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8BkbWBnb3guv+94Lr/veC6/6vPo/90m1xB////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wGGrXJPi7B4iYuweImLsHiJi7B4iXWfYBn///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wG/gEAF////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////AbR6Tl20eU1x////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BtXpNYbZ6TvW2eU17////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wG1ek1htXpO/7V6
+        Tv+2ek2Fs4BNC////wH///8Br4BQEbV6UDG1elAxtXpQMbV6UDG1elAxtXpQMbV6UDG1elAxtXpQMbV6
+        UDG1elAxtXpQMbV6UDG1elAxtXpQMbV6UDG1elAxtXpQMbV6UDG1elAxtXpQMbV6UDG1elAxtXpQMbV7
+        TYe1ek7/tXpO/7V6Tv+1ek+Pv4BABf///wGzeExBtXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6
+        Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6
+        Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+2ek6rv4BABbN4TEG1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6
+        Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6
+        Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7V6Tv+1ek7/tXpO/7Z6Tqu/gEAFr4BQEbN4TEGzeExBs3hMQbN4
+        TEGzeExBs3hMQbN4TEGzeExBs3hMQbN4TEGzeExBs3hMQbN4TEGzeExBs3hMQbN4TEGzeExBs3hMQbN4
+        TEGzeExBs3hMQbN4TEGzeExBs3hMQbV7TYe1ek7/tXpO/7V6Tv+1eU2Rv4BABf///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8BtXpNYbV6Tv+1ek7/tnpPibF2Tg3///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wG1ek1htXpO+7V6Tn+/gEAF////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AbV6TWG0ek13////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BqoBVDf//
+        /wH///8B////Af///wH///8B////AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+  <data name="&gt;&gt;columnNumberOfRows.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvDatabaseContent.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="plHeader.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Array initialization</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btApply.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btApply.Location" type="System.Drawing.Point, System.Drawing">
+    <value>416, 3</value>
+  </data>
+  <data name="&gt;&gt;btApply.Parent" xml:space="preserve">
+    <value>plHeader</value>
+  </data>
+  <data name="&gt;&gt;btApply.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>360, 373</value>
+  </data>
+  <data name="&gt;&gt;lbDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;plHeader.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="plHeader.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btApply.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>503, 335</value>
+  </data>
+  <data name="&gt;&gt;plHeader.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;plHeader.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="plHeader.Size" type="System.Drawing.Size, System.Drawing">
+    <value>503, 37</value>
+  </data>
+  <data name="dgvDatabaseContent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>503, 299</value>
+  </data>
+  <data name="&gt;&gt;dgvDatabaseContent.Name" xml:space="preserve">
+    <value>dgvDatabaseContent</value>
+  </data>
+  <data name="columnArrayId.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="lbDescription.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;plHeader.Name" xml:space="preserve">
+    <value>plHeader</value>
+  </data>
+  <data name="plHeader.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="&gt;&gt;columnNumberOfColumns.Name" xml:space="preserve">
+    <value>columnNumberOfColumns</value>
+  </data>
+  <data name="columnNumberOfRows.HeaderText" xml:space="preserve">
+    <value>Number of rows</value>
+  </data>
+  <data name="dgvDatabaseContent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 36</value>
+  </data>
+  <data name="columnArrayId.HeaderText" xml:space="preserve">
+    <value>Array Id</value>
+  </data>
+  <data name="lbDescription.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 15</value>
+  </data>
+  <data name="&gt;&gt;lbDescription.Name" xml:space="preserve">
+    <value>lbDescription</value>
+  </data>
+  <data name="&gt;&gt;btApply.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;columnArrayId.Name" xml:space="preserve">
+    <value>columnArrayId</value>
+  </data>
+  <data name="lbDescription.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 9</value>
+  </data>
+  <data name="&gt;&gt;dgvDatabaseContent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btApply.Name" xml:space="preserve">
+    <value>btApply</value>
+  </data>
+  <data name="btApply.Text" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="&gt;&gt;dgvDatabaseContent.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btApply.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt</value>
+  </data>
+  <data name="&gt;&gt;columnNumberOfColumns.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btApply.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbDescription.Parent" xml:space="preserve">
+    <value>plHeader</value>
+  </data>
+  <data name="&gt;&gt;columnNumberOfRows.Name" xml:space="preserve">
+    <value>columnNumberOfRows</value>
+  </data>
+  <data name="columnNumberOfColumns.HeaderText" xml:space="preserve">
+    <value>Number of columns</value>
+  </data>
+  <data name="btApply.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 27</value>
+  </data>
+  <data name="&gt;&gt;lbDescription.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ArrayInitializationFromDatabaseForm</value>
+  </data>
+  <data name="dgvDatabaseContent.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <metadata name="columnNumberOfRows.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>uk-UA</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columnNumberOfColumns.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columnArrayId.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
