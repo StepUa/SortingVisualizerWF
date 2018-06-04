@@ -37,6 +37,7 @@ namespace BubbleSorterProject
                             arrayIndexes.FirstIndex = j;
                             arrayIndexes.SecondIndex = j + 1;
 
+                            SwapCount++;
                             OnSwapRaisedEvent(arrayIndexes);
 
                             Thread.Sleep(SortingSpeedDelay);

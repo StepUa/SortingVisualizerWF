@@ -59,6 +59,7 @@ namespace QuickSorterProject
                     arrayIndexes.FirstIndex = i;
                     arrayIndexes.SecondIndex = j;
 
+                    SwapCount++;
                     OnSwapRaisedEvent(arrayIndexes);
 
                     Thread.Sleep(SortingSpeedDelay);

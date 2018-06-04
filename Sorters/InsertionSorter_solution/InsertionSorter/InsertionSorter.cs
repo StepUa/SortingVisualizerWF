@@ -36,6 +36,7 @@ namespace InsertionSorterProject
                             arrayIndexes.FirstIndex = index - 1;
                             arrayIndexes.SecondIndex = index;
 
+                            SwapCount++;
                             OnSwapRaisedEvent(arrayIndexes);
 
                             Thread.Sleep(SortingSpeedDelay);

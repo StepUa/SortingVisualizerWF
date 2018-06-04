@@ -41,6 +41,7 @@ namespace SelectionSorterProject
                     arrayIndexes.FirstIndex = smallestIndex;
                     arrayIndexes.SecondIndex = index;
 
+                    SwapCount++;
                     OnSwapRaisedEvent(arrayIndexes);
 
                     Thread.Sleep(SortingSpeedDelay);

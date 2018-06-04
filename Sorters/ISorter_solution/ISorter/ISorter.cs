@@ -7,12 +7,7 @@ using System.Diagnostics;
 
 namespace ISorterProject
 {
-    public interface ISorter
-    {
-        void Sort(int[] array);
-    }
-
-    public abstract class Sorter : ISorter
+    public abstract class Sorter
     {        
         /// <summary>
         /// Sorting speed delay in milliseconds
@@ -59,6 +54,10 @@ namespace ISorterProject
                 return _sortingTime.Elapsed;
             }
         }
+        /// <summary>
+        /// Count for swap operation
+        /// </summary>
+        public int SwapCount { get; protected set; }
 
         protected virtual void OnSortingOverEvent(SortedArrayEventArgs arg)
         {

@@ -5,3 +5,10 @@ D:\Delphi\Practice\Sorters\QuickSorter_solution\QuickSorter\bin\Debug\ISorter.pd
 D:\Delphi\Practice\Sorters\QuickSorter_solution\QuickSorter\obj\Debug\QuickSorter.csprojResolveAssemblyReference.cache
 D:\Delphi\Practice\Sorters\QuickSorter_solution\QuickSorter\obj\Debug\QuickSorter.dll
 D:\Delphi\Practice\Sorters\QuickSorter_solution\QuickSorter\obj\Debug\QuickSorter.pdb
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\QuickSorter_solution\QuickSorter\bin\Debug\QuickSorter.dll
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\QuickSorter_solution\QuickSorter\bin\Debug\QuickSorter.pdb
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\QuickSorter_solution\QuickSorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\QuickSorter_solution\QuickSorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\QuickSorter_solution\QuickSorter\obj\Debug\QuickSorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\QuickSorter_solution\QuickSorter\obj\Debug\QuickSorter.dll
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\QuickSorter_solution\QuickSorter\obj\Debug\QuickSorter.pdb

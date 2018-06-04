@@ -5,3 +5,10 @@ D:\Delphi\Practice\Sorters\SelectionSorter_solution\SelectionSorter\bin\Debug\IS
 D:\Delphi\Practice\Sorters\SelectionSorter_solution\SelectionSorter\obj\Debug\SelectionSorter.csprojResolveAssemblyReference.cache
 D:\Delphi\Practice\Sorters\SelectionSorter_solution\SelectionSorter\obj\Debug\SelectionSorter.dll
 D:\Delphi\Practice\Sorters\SelectionSorter_solution\SelectionSorter\obj\Debug\SelectionSorter.pdb
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\SelectionSorter_solution\SelectionSorter\bin\Debug\SelectionSorter.dll
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\SelectionSorter_solution\SelectionSorter\bin\Debug\SelectionSorter.pdb
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\SelectionSorter_solution\SelectionSorter\bin\Debug\ISorter.dll
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\SelectionSorter_solution\SelectionSorter\bin\Debug\ISorter.pdb
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\SelectionSorter_solution\SelectionSorter\obj\Debug\SelectionSorter.csprojResolveAssemblyReference.cache
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\SelectionSorter_solution\SelectionSorter\obj\Debug\SelectionSorter.dll
+D:\Delphi\Practice\Task5\Task5_solution\Sorters\SelectionSorter_solution\SelectionSorter\obj\Debug\SelectionSorter.pdb
