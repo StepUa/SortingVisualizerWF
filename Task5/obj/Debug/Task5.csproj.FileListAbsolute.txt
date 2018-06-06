@@ -42,3 +42,6 @@ D:\Delphi\Practice\Task5\Task5_solution\Task5\obj\Debug\Task5.Forms.Localization
 D:\Delphi\Practice\Task5\Task5_solution\Task5\bin\Debug\NLog.config
 D:\Delphi\Practice\Task5\Task5_solution\Task5\bin\Debug\NLog.dll
 D:\Delphi\Practice\Task5\Task5_solution\Task5\bin\Debug\NLog.xml
+D:\Delphi\Practice\Task5\Task5_solution\Task5\obj\Debug\Task5.Forms.StatisticsForm.resources
+D:\Delphi\Practice\Task5\Task5_solution\Task5\obj\Debug\Task5.exe.licenses
+D:\Delphi\Practice\Task5\Task5_solution\Task5\obj\Debug\Task5.Tools.CustomTabPageControl.resources

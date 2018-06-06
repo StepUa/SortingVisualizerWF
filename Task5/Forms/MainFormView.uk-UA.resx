@@ -117,22 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="mtsData.Text" xml:space="preserve">
-    <value>Дані</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="mtsOptions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
-  </data>
-  <data name="mtsOptions.Text" xml:space="preserve">
-    <value>Опції</value>
-  </data>
-  <data name="mtsiAarrayInitialization.Size" type="System.Drawing.Size, System.Drawing">
-    <value>323, 22</value>
-  </data>
-  <data name="mtsiAarrayInitialization.Text" xml:space="preserve">
-    <value>Ініціалізація масиву</value>
-  </data>
   <data name="fromFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>143, 22</value>
   </data>
@@ -144,6 +129,12 @@
   </data>
   <data name="fromDatabaseToolStripMenuItem.Text" xml:space="preserve">
     <value>З бази даних</value>
+  </data>
+  <data name="mtsiAarrayInitialization.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 22</value>
+  </data>
+  <data name="mtsiAarrayInitialization.Text" xml:space="preserve">
+    <value>Ініціалізація масиву</value>
   </data>
   <data name="mtsiSortMethodsList.Size" type="System.Drawing.Size, System.Drawing">
     <value>323, 22</value>
@@ -160,14 +151,26 @@
   <data name="mtsiRandomArrayCreation.Text" xml:space="preserve">
     <value>Генерація випадкового масиву в базу даних...</value>
   </data>
+  <data name="mtsiSortingStatistics.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 22</value>
+  </data>
+  <data name="mtsiSortingStatistics.Text" xml:space="preserve">
+    <value>Статистика сортування</value>
+  </data>
+  <data name="mtsData.Text" xml:space="preserve">
+    <value>Дані</value>
+  </data>
   <data name="mtsiLanguage.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 22</value>
   </data>
   <data name="mtsiLanguage.Text" xml:space="preserve">
     <value>Мова</value>
   </data>
-  <data name="gbSpeedRegulator.Text" xml:space="preserve">
-    <value>Регулятор швидкості</value>
+  <data name="mtsOptions.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 20</value>
+  </data>
+  <data name="mtsOptions.Text" xml:space="preserve">
+    <value>Опції</value>
   </data>
   <data name="lbSlow.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8pt</value>
@@ -189,6 +192,9 @@
   </data>
   <data name="lbFast.Text" xml:space="preserve">
     <value>Швидко</value>
+  </data>
+  <data name="gbSpeedRegulator.Text" xml:space="preserve">
+    <value>Регулятор швидкості</value>
   </data>
   <data name="btStopSorting.Text" xml:space="preserve">
     <value>Стоп</value>

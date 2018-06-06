@@ -38,6 +38,7 @@
             this.mtsiSortMethodsList = new System.Windows.Forms.ToolStripMenuItem();
             this.DataToolStripSeparator = new System.Windows.Forms.ToolStripSeparator();
             this.mtsiRandomArrayCreation = new System.Windows.Forms.ToolStripMenuItem();
+            this.mtsiSortingStatistics = new System.Windows.Forms.ToolStripMenuItem();
             this.mtsOptions = new System.Windows.Forms.ToolStripMenuItem();
             this.mtsiLanguage = new System.Windows.Forms.ToolStripMenuItem();
             this.mtsiEnglishLang = new System.Windows.Forms.ToolStripMenuItem();
@@ -72,86 +73,93 @@
             // 
             // mtsData
             // 
+            resources.ApplyResources(this.mtsData, "mtsData");
             this.mtsData.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mtsiAarrayInitialization,
             this.mtsiSortMethodsList,
             this.DataToolStripSeparator,
-            this.mtsiRandomArrayCreation});
+            this.mtsiRandomArrayCreation,
+            this.mtsiSortingStatistics});
             this.mtsData.Name = "mtsData";
-            resources.ApplyResources(this.mtsData, "mtsData");
             // 
             // mtsiAarrayInitialization
             // 
+            resources.ApplyResources(this.mtsiAarrayInitialization, "mtsiAarrayInitialization");
             this.mtsiAarrayInitialization.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fromFileToolStripMenuItem,
             this.fromDatabaseToolStripMenuItem});
             this.mtsiAarrayInitialization.Name = "mtsiAarrayInitialization";
-            resources.ApplyResources(this.mtsiAarrayInitialization, "mtsiAarrayInitialization");
             // 
             // fromFileToolStripMenuItem
             // 
-            this.fromFileToolStripMenuItem.Name = "fromFileToolStripMenuItem";
             resources.ApplyResources(this.fromFileToolStripMenuItem, "fromFileToolStripMenuItem");
+            this.fromFileToolStripMenuItem.Name = "fromFileToolStripMenuItem";
             this.fromFileToolStripMenuItem.Click += new System.EventHandler(this.InitFromFileClick);
             // 
             // fromDatabaseToolStripMenuItem
             // 
-            this.fromDatabaseToolStripMenuItem.Name = "fromDatabaseToolStripMenuItem";
             resources.ApplyResources(this.fromDatabaseToolStripMenuItem, "fromDatabaseToolStripMenuItem");
+            this.fromDatabaseToolStripMenuItem.Name = "fromDatabaseToolStripMenuItem";
             this.fromDatabaseToolStripMenuItem.Click += new System.EventHandler(this.InitFromDatabaseClick);
             // 
             // mtsiSortMethodsList
             // 
-            this.mtsiSortMethodsList.Name = "mtsiSortMethodsList";
             resources.ApplyResources(this.mtsiSortMethodsList, "mtsiSortMethodsList");
+            this.mtsiSortMethodsList.Name = "mtsiSortMethodsList";
             this.mtsiSortMethodsList.Click += new System.EventHandler(this.SortMethodsListClick);
             // 
             // DataToolStripSeparator
             // 
-            this.DataToolStripSeparator.Name = "DataToolStripSeparator";
             resources.ApplyResources(this.DataToolStripSeparator, "DataToolStripSeparator");
+            this.DataToolStripSeparator.Name = "DataToolStripSeparator";
             // 
             // mtsiRandomArrayCreation
             // 
-            this.mtsiRandomArrayCreation.Name = "mtsiRandomArrayCreation";
             resources.ApplyResources(this.mtsiRandomArrayCreation, "mtsiRandomArrayCreation");
+            this.mtsiRandomArrayCreation.Name = "mtsiRandomArrayCreation";
             this.mtsiRandomArrayCreation.Click += new System.EventHandler(this.GenerateRandomArrayClick);
+            // 
+            // mtsiSortingStatistics
+            // 
+            resources.ApplyResources(this.mtsiSortingStatistics, "mtsiSortingStatistics");
+            this.mtsiSortingStatistics.Name = "mtsiSortingStatistics";
+            this.mtsiSortingStatistics.Click += new System.EventHandler(this.SortingStatisticsClick);
             // 
             // mtsOptions
             // 
+            resources.ApplyResources(this.mtsOptions, "mtsOptions");
             this.mtsOptions.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mtsiLanguage});
             this.mtsOptions.Name = "mtsOptions";
-            resources.ApplyResources(this.mtsOptions, "mtsOptions");
             // 
             // mtsiLanguage
             // 
+            resources.ApplyResources(this.mtsiLanguage, "mtsiLanguage");
             this.mtsiLanguage.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mtsiEnglishLang,
             this.mtsiUkrainianLang,
             this.mtsiRussianLang});
             this.mtsiLanguage.Name = "mtsiLanguage";
-            resources.ApplyResources(this.mtsiLanguage, "mtsiLanguage");
             // 
             // mtsiEnglishLang
             // 
+            resources.ApplyResources(this.mtsiEnglishLang, "mtsiEnglishLang");
             this.mtsiEnglishLang.CheckOnClick = true;
             this.mtsiEnglishLang.Name = "mtsiEnglishLang";
-            resources.ApplyResources(this.mtsiEnglishLang, "mtsiEnglishLang");
             this.mtsiEnglishLang.Click += new System.EventHandler(this.LanguageSelection);
             // 
             // mtsiUkrainianLang
             // 
+            resources.ApplyResources(this.mtsiUkrainianLang, "mtsiUkrainianLang");
             this.mtsiUkrainianLang.CheckOnClick = true;
             this.mtsiUkrainianLang.Name = "mtsiUkrainianLang";
-            resources.ApplyResources(this.mtsiUkrainianLang, "mtsiUkrainianLang");
             this.mtsiUkrainianLang.Click += new System.EventHandler(this.LanguageSelection);
             // 
             // mtsiRussianLang
             // 
+            resources.ApplyResources(this.mtsiRussianLang, "mtsiRussianLang");
             this.mtsiRussianLang.CheckOnClick = true;
             this.mtsiRussianLang.Name = "mtsiRussianLang";
-            resources.ApplyResources(this.mtsiRussianLang, "mtsiRussianLang");
             this.mtsiRussianLang.Click += new System.EventHandler(this.LanguageSelection);
             // 
             // tcSorters
@@ -218,15 +226,15 @@
             // 
             // ssMainStatusStrip
             // 
+            resources.ApplyResources(this.ssMainStatusStrip, "ssMainStatusStrip");
             this.ssMainStatusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsslStatus});
-            resources.ApplyResources(this.ssMainStatusStrip, "ssMainStatusStrip");
             this.ssMainStatusStrip.Name = "ssMainStatusStrip";
             // 
             // tsslStatus
             // 
-            this.tsslStatus.Name = "tsslStatus";
             resources.ApplyResources(this.tsslStatus, "tsslStatus");
+            this.tsslStatus.Name = "tsslStatus";
             // 
             // sortingTime
             // 
@@ -285,6 +293,7 @@
         private System.Windows.Forms.ToolStripSeparator DataToolStripSeparator;
         private System.Windows.Forms.ToolStripMenuItem mtsiRandomArrayCreation;
         private System.Windows.Forms.Timer sortingTime;
+        private System.Windows.Forms.ToolStripMenuItem mtsiSortingStatistics;
     }
 }
 

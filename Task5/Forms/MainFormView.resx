@@ -117,413 +117,155 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="msMainMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
+  <data name="&gt;&gt;btStopSorting.Parent" xml:space="preserve">
+    <value>pStartButtonAndSpeedRegulator</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="msMainMenu.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 9pt</value>
+  <data name="tcSorters.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
-  <data name="fromFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>152, 22</value>
+  <data name="lbFast.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
-  <data name="fromFileToolStripMenuItem.Text" xml:space="preserve">
-    <value>From file</value>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pStartButtonAndSpeedRegulator.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
-  <data name="fromDatabaseToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>152, 22</value>
+  <data name="&gt;&gt;mtsData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="fromDatabaseToolStripMenuItem.Text" xml:space="preserve">
-    <value>From database</value>
+  <data name="btStartSorting.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 3</value>
   </data>
-  <data name="mtsiAarrayInitialization.Size" type="System.Drawing.Size, System.Drawing">
-    <value>296, 22</value>
+  <data name="&gt;&gt;ssMainStatusStrip.Name" xml:space="preserve">
+    <value>ssMainStatusStrip</value>
   </data>
-  <data name="mtsiAarrayInitialization.Text" xml:space="preserve">
-    <value>Array initialization</value>
+  <data name="mtsiUkrainianLang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 22</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tbSortersSpeedRegulator.Orientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="&gt;&gt;gbSpeedRegulator.Name" xml:space="preserve">
+    <value>gbSpeedRegulator</value>
+  </data>
+  <data name="&gt;&gt;pStartButtonAndSpeedRegulator.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btStopSorting.Name" xml:space="preserve">
+    <value>btStopSorting</value>
+  </data>
+  <data name="&gt;&gt;mtsiSortingStatistics.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="mtsiSortMethodsList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>296, 22</value>
-  </data>
-  <data name="mtsiSortMethodsList.Text" xml:space="preserve">
-    <value>Sorters list...</value>
-  </data>
-  <data name="DataToolStripSeparator.Size" type="System.Drawing.Size, System.Drawing">
-    <value>293, 6</value>
-  </data>
-  <data name="mtsiRandomArrayCreation.Size" type="System.Drawing.Size, System.Drawing">
     <value>296, 22</value>
   </data>
   <data name="mtsiRandomArrayCreation.Text" xml:space="preserve">
     <value>Generate a random array into a database...</value>
   </data>
-  <data name="mtsData.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 20</value>
-  </data>
-  <data name="mtsData.Text" xml:space="preserve">
-    <value>Data</value>
-  </data>
-  <data name="mtsiEnglishLang.Size" type="System.Drawing.Size, System.Drawing">
-    <value>192, 22</value>
-  </data>
-  <data name="mtsiEnglishLang.Text" xml:space="preserve">
-    <value>English (United States)</value>
-  </data>
-  <data name="mtsiUkrainianLang.Size" type="System.Drawing.Size, System.Drawing">
-    <value>192, 22</value>
-  </data>
-  <data name="mtsiUkrainianLang.Text" xml:space="preserve">
-    <value>Українська (Україна)</value>
-  </data>
-  <data name="mtsiRussianLang.Size" type="System.Drawing.Size, System.Drawing">
-    <value>192, 22</value>
-  </data>
-  <data name="mtsiRussianLang.Text" xml:space="preserve">
-    <value>Русский (Россия)</value>
-  </data>
-  <data name="mtsiLanguage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 22</value>
-  </data>
-  <data name="mtsiLanguage.Text" xml:space="preserve">
-    <value>Language</value>
-  </data>
-  <data name="mtsOptions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 20</value>
-  </data>
-  <data name="mtsOptions.Text" xml:space="preserve">
-    <value>Options</value>
-  </data>
-  <data name="msMainMenu.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="msMainMenu.Size" type="System.Drawing.Size, System.Drawing">
-    <value>624, 24</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="msMainMenu.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="msMainMenu.Text" xml:space="preserve">
-    <value>MainMenu</value>
-  </data>
-  <data name="&gt;&gt;msMainMenu.Name" xml:space="preserve">
-    <value>msMainMenu</value>
-  </data>
-  <data name="&gt;&gt;msMainMenu.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;msMainMenu.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;msMainMenu.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="tcSorters.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="tcSorters.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt</value>
-  </data>
-  <data name="tcSorters.Location" type="System.Drawing.Point, System.Drawing">
-    <value>145, 27</value>
-  </data>
-  <data name="tcSorters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>467, 435</value>
-  </data>
-  <data name="tcSorters.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tcSorters.Name" xml:space="preserve">
-    <value>tcSorters</value>
-  </data>
-  <data name="&gt;&gt;tcSorters.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tcSorters.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;tcSorters.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pStartButtonAndSpeedRegulator.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
   <data name="gbSpeedRegulator.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left, Right</value>
-  </data>
-  <data name="tbSortersSpeedRegulator.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="tbSortersSpeedRegulator.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 19</value>
-  </data>
-  <data name="tbSortersSpeedRegulator.Orientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
-    <value>Vertical</value>
-  </data>
-  <data name="tbSortersSpeedRegulator.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 244</value>
-  </data>
-  <data name="tbSortersSpeedRegulator.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;tbSortersSpeedRegulator.Name" xml:space="preserve">
-    <value>tbSortersSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;tbSortersSpeedRegulator.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tbSortersSpeedRegulator.Parent" xml:space="preserve">
-    <value>gbSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;tbSortersSpeedRegulator.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="lbSlow.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lbSlow.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt</value>
-  </data>
-  <data name="lbSlow.Location" type="System.Drawing.Point, System.Drawing">
-    <value>57, 19</value>
-  </data>
-  <data name="lbSlow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 17</value>
-  </data>
-  <data name="lbSlow.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="lbSlow.Text" xml:space="preserve">
-    <value>Slow</value>
-  </data>
-  <data name="&gt;&gt;lbSlow.Name" xml:space="preserve">
-    <value>lbSlow</value>
-  </data>
-  <data name="&gt;&gt;lbSlow.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbSlow.Parent" xml:space="preserve">
-    <value>gbSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;lbSlow.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="lbFast.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Left</value>
-  </data>
-  <data name="lbFast.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lbFast.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt</value>
-  </data>
-  <data name="lbFast.Location" type="System.Drawing.Point, System.Drawing">
-    <value>57, 246</value>
-  </data>
-  <data name="lbFast.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 17</value>
-  </data>
-  <data name="lbFast.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="lbFast.Text" xml:space="preserve">
-    <value>Fast</value>
-  </data>
-  <data name="&gt;&gt;lbFast.Name" xml:space="preserve">
-    <value>lbFast</value>
-  </data>
-  <data name="&gt;&gt;lbFast.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbFast.Parent" xml:space="preserve">
-    <value>gbSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;lbFast.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="gbSpeedRegulator.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-2, 158</value>
   </data>
   <data name="gbSpeedRegulator.Size" type="System.Drawing.Size, System.Drawing">
     <value>127, 269</value>
   </data>
-  <data name="gbSpeedRegulator.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="gbSpeedRegulator.Text" xml:space="preserve">
-    <value>Speed regulator</value>
-  </data>
-  <data name="&gt;&gt;gbSpeedRegulator.Name" xml:space="preserve">
-    <value>gbSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;gbSpeedRegulator.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;gbSpeedRegulator.Parent" xml:space="preserve">
-    <value>pStartButtonAndSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;gbSpeedRegulator.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="lbTimer.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="lbTimer.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lbTimer.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15pt</value>
-  </data>
-  <data name="lbTimer.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 115</value>
-  </data>
-  <data name="lbTimer.Size" type="System.Drawing.Size, System.Drawing">
-    <value>90, 25</value>
-  </data>
-  <data name="lbTimer.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="lbTimer.Text" xml:space="preserve">
-    <value>00:00:00</value>
-  </data>
-  <data name="&gt;&gt;lbTimer.Name" xml:space="preserve">
-    <value>lbTimer</value>
-  </data>
-  <data name="&gt;&gt;lbTimer.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbTimer.Parent" xml:space="preserve">
-    <value>pStartButtonAndSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;lbTimer.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btStopSorting.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="btStopSorting.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt</value>
-  </data>
-  <data name="btStopSorting.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 51</value>
-  </data>
-  <data name="btStopSorting.Size" type="System.Drawing.Size, System.Drawing">
-    <value>90, 42</value>
-  </data>
-  <data name="btStopSorting.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="btStopSorting.Text" xml:space="preserve">
-    <value>Stop</value>
-  </data>
-  <data name="&gt;&gt;btStopSorting.Name" xml:space="preserve">
-    <value>btStopSorting</value>
-  </data>
-  <data name="&gt;&gt;btStopSorting.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btStopSorting.Parent" xml:space="preserve">
-    <value>pStartButtonAndSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;btStopSorting.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="btStartSorting.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="btStartSorting.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10pt</value>
-  </data>
-  <data name="btStartSorting.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 3</value>
-  </data>
   <data name="btStartSorting.Size" type="System.Drawing.Size, System.Drawing">
     <value>90, 42</value>
   </data>
-  <data name="btStartSorting.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="tbSortersSpeedRegulator.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="btStartSorting.Text" xml:space="preserve">
     <value>Start</value>
   </data>
-  <data name="&gt;&gt;btStartSorting.Name" xml:space="preserve">
-    <value>btStartSorting</value>
-  </data>
-  <data name="&gt;&gt;btStartSorting.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btStartSorting.Parent" xml:space="preserve">
-    <value>pStartButtonAndSpeedRegulator</value>
-  </data>
-  <data name="&gt;&gt;btStartSorting.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="pStartButtonAndSpeedRegulator.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 27</value>
-  </data>
-  <data name="pStartButtonAndSpeedRegulator.Size" type="System.Drawing.Size, System.Drawing">
-    <value>127, 429</value>
-  </data>
-  <data name="pStartButtonAndSpeedRegulator.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
   <data name="&gt;&gt;pStartButtonAndSpeedRegulator.Name" xml:space="preserve">
     <value>pStartButtonAndSpeedRegulator</value>
   </data>
-  <data name="&gt;&gt;pStartButtonAndSpeedRegulator.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="btStopSorting.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 51</value>
   </data>
-  <data name="&gt;&gt;pStartButtonAndSpeedRegulator.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="lbSlow.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 19</value>
   </data>
-  <data name="&gt;&gt;pStartButtonAndSpeedRegulator.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;fromDatabaseToolStripMenuItem.Name" xml:space="preserve">
+    <value>fromDatabaseToolStripMenuItem</value>
+  </data>
+  <data name="mtsData.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;lbTimer.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <metadata name="ssMainStatusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>143, 17</value>
-  </metadata>
-  <data name="tsslStatus.Size" type="System.Drawing.Size, System.Drawing">
-    <value>120, 17</value>
+  <data name="tbSortersSpeedRegulator.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left</value>
   </data>
-  <data name="tsslStatus.Text" xml:space="preserve">
-    <value>Array is not initialized</value>
+  <data name="lbTimer.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
   </data>
-  <data name="ssMainStatusStrip.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 465</value>
+  <data name="&gt;&gt;fromDatabaseToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DataToolStripSeparator.Name" xml:space="preserve">
+    <value>DataToolStripSeparator</value>
+  </data>
+  <data name="DataToolStripSeparator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>293, 6</value>
+  </data>
+  <data name="&gt;&gt;mtsiRandomArrayCreation.Name" xml:space="preserve">
+    <value>mtsiRandomArrayCreation</value>
+  </data>
+  <data name="&gt;&gt;tsslStatus.Name" xml:space="preserve">
+    <value>tsslStatus</value>
+  </data>
+  <data name="mtsiAarrayInitialization.Text" xml:space="preserve">
+    <value>Array initialization</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Sorting Visualizer</value>
+  </data>
+  <data name="&gt;&gt;lbSlow.Parent" xml:space="preserve">
+    <value>gbSpeedRegulator</value>
+  </data>
+  <data name="&gt;&gt;mtsData.Name" xml:space="preserve">
+    <value>mtsData</value>
+  </data>
+  <data name="&gt;&gt;mtsiEnglishLang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="ssMainStatusStrip.Size" type="System.Drawing.Size, System.Drawing">
     <value>624, 22</value>
   </data>
-  <data name="ssMainStatusStrip.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="&gt;&gt;mtsiRandomArrayCreation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="ssMainStatusStrip.Text" xml:space="preserve">
-    <value>statusStrip1</value>
+  <data name="mtsiSortMethodsList.Text" xml:space="preserve">
+    <value>Sorters list...</value>
   </data>
-  <data name="&gt;&gt;ssMainStatusStrip.Name" xml:space="preserve">
-    <value>ssMainStatusStrip</value>
+  <data name="&gt;&gt;btStartSorting.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;ssMainStatusStrip.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;mtsiLanguage.Name" xml:space="preserve">
+    <value>mtsiLanguage</value>
   </data>
-  <data name="&gt;&gt;ssMainStatusStrip.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;gbSpeedRegulator.Parent" xml:space="preserve">
+    <value>pStartButtonAndSpeedRegulator</value>
   </data>
-  <data name="&gt;&gt;ssMainStatusStrip.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;DataToolStripSeparator.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <metadata name="sortingTime.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>291, 17</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
+  <data name="tcSorters.Size" type="System.Drawing.Size, System.Drawing">
+    <value>467, 435</value>
+  </data>
+  <data name="&gt;&gt;fromFileToolStripMenuItem.Name" xml:space="preserve">
+    <value>fromFileToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;gbSpeedRegulator.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>624, 487</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -620,53 +362,122 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 </value>
   </data>
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>640, 480</value>
+  <data name="gbSpeedRegulator.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-2, 158</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Sorting Visualizer</value>
+  <data name="mtsiRandomArrayCreation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 22</value>
   </data>
-  <data name="&gt;&gt;mtsData.Name" xml:space="preserve">
-    <value>mtsData</value>
+  <data name="tbSortersSpeedRegulator.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 19</value>
   </data>
-  <data name="&gt;&gt;mtsData.Type" xml:space="preserve">
+  <data name="lbTimer.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15pt</value>
+  </data>
+  <data name="tbSortersSpeedRegulator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 244</value>
+  </data>
+  <data name="&gt;&gt;lbFast.Parent" xml:space="preserve">
+    <value>gbSpeedRegulator</value>
+  </data>
+  <data name="&gt;&gt;msMainMenu.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbSlow.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="mtsiSortingStatistics.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 22</value>
+  </data>
+  <data name="btStartSorting.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lbSlow.Text" xml:space="preserve">
+    <value>Slow</value>
+  </data>
+  <data name="&gt;&gt;mtsiLanguage.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;mtsiAarrayInitialization.Name" xml:space="preserve">
-    <value>mtsiAarrayInitialization</value>
+  <data name="lbTimer.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="&gt;&gt;mtsiAarrayInitialization.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="msMainMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>624, 24</value>
   </data>
-  <data name="&gt;&gt;fromFileToolStripMenuItem.Name" xml:space="preserve">
-    <value>fromFileToolStripMenuItem</value>
+  <data name="mtsiSortingStatistics.Text" xml:space="preserve">
+    <value>Sorting statistics</value>
   </data>
-  <data name="&gt;&gt;fromFileToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="mtsData.Text" xml:space="preserve">
+    <value>Data</value>
   </data>
-  <data name="&gt;&gt;fromDatabaseToolStripMenuItem.Name" xml:space="preserve">
-    <value>fromDatabaseToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;fromDatabaseToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;mtsiSortMethodsList.Name" xml:space="preserve">
-    <value>mtsiSortMethodsList</value>
+  <data name="gbSpeedRegulator.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
   </data>
   <data name="&gt;&gt;mtsiSortMethodsList.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;DataToolStripSeparator.Name" xml:space="preserve">
-    <value>DataToolStripSeparator</value>
+  <data name="lbFast.Text" xml:space="preserve">
+    <value>Fast</value>
   </data>
-  <data name="&gt;&gt;DataToolStripSeparator.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="lbFast.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
-  <data name="&gt;&gt;mtsiRandomArrayCreation.Name" xml:space="preserve">
-    <value>mtsiRandomArrayCreation</value>
-  </data>
-  <data name="&gt;&gt;mtsiRandomArrayCreation.Type" xml:space="preserve">
+  <data name="&gt;&gt;mtsiAarrayInitialization.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btStopSorting.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lbTimer.Parent" xml:space="preserve">
+    <value>pStartButtonAndSpeedRegulator</value>
+  </data>
+  <data name="&gt;&gt;btStartSorting.Parent" xml:space="preserve">
+    <value>pStartButtonAndSpeedRegulator</value>
+  </data>
+  <data name="&gt;&gt;pStartButtonAndSpeedRegulator.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btStartSorting.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tsslStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 17</value>
+  </data>
+  <data name="&gt;&gt;lbFast.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ssMainStatusStrip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbFast.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="&gt;&gt;mtsiUkrainianLang.Name" xml:space="preserve">
+    <value>mtsiUkrainianLang</value>
+  </data>
+  <data name="&gt;&gt;tbSortersSpeedRegulator.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;mtsiUkrainianLang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainFormView</value>
+  </data>
+  <data name="&gt;&gt;tbSortersSpeedRegulator.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;msMainMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tsslStatus.Text" xml:space="preserve">
+    <value>Array is not initialized</value>
+  </data>
+  <data name="&gt;&gt;lbSlow.Name" xml:space="preserve">
+    <value>lbSlow</value>
+  </data>
+  <data name="&gt;&gt;mtsiEnglishLang.Name" xml:space="preserve">
+    <value>mtsiEnglishLang</value>
   </data>
   <data name="&gt;&gt;mtsOptions.Name" xml:space="preserve">
     <value>mtsOptions</value>
@@ -674,46 +485,247 @@
   <data name="&gt;&gt;mtsOptions.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;mtsiLanguage.Name" xml:space="preserve">
-    <value>mtsiLanguage</value>
-  </data>
-  <data name="&gt;&gt;mtsiLanguage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;mtsiEnglishLang.Name" xml:space="preserve">
-    <value>mtsiEnglishLang</value>
-  </data>
-  <data name="&gt;&gt;mtsiEnglishLang.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;mtsiUkrainianLang.Name" xml:space="preserve">
-    <value>mtsiUkrainianLang</value>
-  </data>
-  <data name="&gt;&gt;mtsiUkrainianLang.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;mtsiRussianLang.Name" xml:space="preserve">
-    <value>mtsiRussianLang</value>
-  </data>
-  <data name="&gt;&gt;mtsiRussianLang.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tsslStatus.Name" xml:space="preserve">
-    <value>tsslStatus</value>
-  </data>
-  <data name="&gt;&gt;tsslStatus.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="mtsOptions.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 20</value>
   </data>
   <data name="&gt;&gt;sortingTime.Name" xml:space="preserve">
     <value>sortingTime</value>
   </data>
+  <data name="btStopSorting.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 42</value>
+  </data>
+  <data name="btStopSorting.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;lbFast.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbSlow.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 17</value>
+  </data>
+  <data name="&gt;&gt;tbSortersSpeedRegulator.Name" xml:space="preserve">
+    <value>tbSortersSpeedRegulator</value>
+  </data>
+  <data name="tcSorters.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="&gt;&gt;tcSorters.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
   <data name="&gt;&gt;sortingTime.Type" xml:space="preserve">
     <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>MainFormView</value>
+  <data name="mtsiRussianLang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 22</value>
+  </data>
+  <data name="lbTimer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <data name="pStartButtonAndSpeedRegulator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 429</value>
+  </data>
+  <data name="pStartButtonAndSpeedRegulator.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 27</value>
+  </data>
+  <data name="lbFast.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 246</value>
+  </data>
+  <data name="&gt;&gt;mtsiRussianLang.Name" xml:space="preserve">
+    <value>mtsiRussianLang</value>
+  </data>
+  <data name="&gt;&gt;fromFileToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btStopSorting.Text" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="&gt;&gt;gbSpeedRegulator.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btStopSorting.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="lbFast.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="pStartButtonAndSpeedRegulator.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left</value>
+  </data>
+  <data name="fromDatabaseToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="&gt;&gt;lbSlow.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="msMainMenu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9pt</value>
+  </data>
+  <data name="fromDatabaseToolStripMenuItem.Text" xml:space="preserve">
+    <value>From database</value>
+  </data>
+  <data name="&gt;&gt;tcSorters.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="gbSpeedRegulator.Text" xml:space="preserve">
+    <value>Speed regulator</value>
+  </data>
+  <data name="mtsiLanguage.Text" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="lbTimer.Text" xml:space="preserve">
+    <value>00:00:00</value>
+  </data>
+  <data name="fromFileToolStripMenuItem.Text" xml:space="preserve">
+    <value>From file</value>
+  </data>
+  <data name="mtsiAarrayInitialization.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 22</value>
+  </data>
+  <data name="&gt;&gt;msMainMenu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbFast.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 17</value>
+  </data>
+  <data name="btStopSorting.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="fromFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="btStartSorting.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lbTimer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 115</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="msMainMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;lbSlow.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbSlow.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;mtsiSortMethodsList.Name" xml:space="preserve">
+    <value>mtsiSortMethodsList</value>
+  </data>
+  <data name="&gt;&gt;lbFast.Name" xml:space="preserve">
+    <value>lbFast</value>
+  </data>
+  <data name="tcSorters.Location" type="System.Drawing.Point, System.Drawing">
+    <value>145, 27</value>
+  </data>
+  <data name="&gt;&gt;lbTimer.Name" xml:space="preserve">
+    <value>lbTimer</value>
+  </data>
+  <data name="ssMainStatusStrip.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;ssMainStatusStrip.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mtsiSortingStatistics.Name" xml:space="preserve">
+    <value>mtsiSortingStatistics</value>
+  </data>
+  <data name="&gt;&gt;btStartSorting.Name" xml:space="preserve">
+    <value>btStartSorting</value>
+  </data>
+  <data name="tcSorters.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="mtsiEnglishLang.Text" xml:space="preserve">
+    <value>English (United States)</value>
+  </data>
+  <data name="&gt;&gt;lbTimer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsslStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mtsOptions.Text" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="btStartSorting.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="mtsiRussianLang.Text" xml:space="preserve">
+    <value>Русский (Россия)</value>
+  </data>
+  <data name="mtsiUkrainianLang.Text" xml:space="preserve">
+    <value>Українська (Україна)</value>
+  </data>
+  <data name="&gt;&gt;ssMainStatusStrip.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>624, 487</value>
+  </data>
+  <data name="lbSlow.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btStopSorting.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbSortersSpeedRegulator.Parent" xml:space="preserve">
+    <value>gbSpeedRegulator</value>
+  </data>
+  <data name="lbTimer.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="&gt;&gt;tcSorters.Name" xml:space="preserve">
+    <value>tcSorters</value>
+  </data>
+  <data name="&gt;&gt;pStartButtonAndSpeedRegulator.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;msMainMenu.Name" xml:space="preserve">
+    <value>msMainMenu</value>
+  </data>
+  <data name="msMainMenu.Text" xml:space="preserve">
+    <value>MainMenu</value>
+  </data>
+  <data name="&gt;&gt;mtsiRussianLang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tcSorters.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mtsiAarrayInitialization.Name" xml:space="preserve">
+    <value>mtsiAarrayInitialization</value>
+  </data>
+  <data name="ssMainStatusStrip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 465</value>
+  </data>
+  <data name="msMainMenu.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="mtsiEnglishLang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 22</value>
+  </data>
+  <data name="ssMainStatusStrip.Text" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="mtsiLanguage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 22</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>640, 480</value>
+  </data>
+  <metadata name="msMainMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="sortingTime.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>291, 17</value>
+  </metadata>
+  <metadata name="ssMainStatusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>143, 17</value>
+  </metadata>
 </root>

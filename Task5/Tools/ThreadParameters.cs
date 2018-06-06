@@ -7,7 +7,7 @@ using ISorterProject;
 
 namespace Task5.Tools
 {
-    class ThreadParameters
+    public class ThreadParameters
     {
         private int[] _array;
         private ISorterProject.Sorter _sortMethod;

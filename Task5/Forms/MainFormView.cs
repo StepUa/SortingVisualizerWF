@@ -421,6 +421,12 @@ namespace Task5.Forms
                 }
             }
         }
+        private void SortingStatisticsClick(object sender, EventArgs e)
+        {
+            StatisticsForm form = new StatisticsForm(_threadParameters);
+
+            form.ShowDialog();
+        }
         private void LanguageSelection(object sender, EventArgs e)
         {
             ToolStripMenuItem selectedLanguage = (ToolStripMenuItem)sender;
