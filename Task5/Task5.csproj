@@ -190,7 +190,6 @@
     <Compile Include="Tools\CustomTabPageControl.Designer.cs">
       <DependentUpon>CustomTabPageControl.cs</DependentUpon>
     </Compile>
-    <Compile Include="Tools\StatisticsInfoSaver.cs" />
     <Compile Include="Tools\ThreadParameters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
